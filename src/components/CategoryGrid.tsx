@@ -1,4 +1,5 @@
 import { CategoryCard } from "./CategoryCard";
+import { Button } from "@/components/ui/button";
 
 const categories = [
   {
@@ -38,6 +39,11 @@ export const CategoryGrid = () => {
             image={category.image}
           />
         ))}
+      </div>
+      <div className="mt-8 text-center">
+        <Button variant="secondary" size="lg">
+          Ver todas las publicaciones
+        </Button>
       </div>
     </div>
   );
