@@ -2,27 +2,27 @@ import { CategoryCard } from "./CategoryCard";
 
 const categories = [
   {
-    title: "Jeans",
+    title: "Pantalones",
     image: "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80",
   },
   {
-    title: "Dresses",
+    title: "Vestidos",
     image: "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80",
   },
   {
-    title: "Tops",
+    title: "Blusas",
     image: "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80",
   },
   {
-    title: "Shoes",
+    title: "Zapatos",
     image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&q=80",
   },
   {
-    title: "Accessories",
+    title: "Accesorios",
     image: "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&q=80",
   },
   {
-    title: "Outerwear",
+    title: "Abrigos",
     image: "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&q=80",
   },
 ];
